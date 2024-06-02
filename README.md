@@ -20,7 +20,6 @@ This project aims to provide a robust AI-driven assistance system for the blind,
 ## Demo Video
 
 For a detailed demonstration of the AI-Powered Assistance for the Blind, please refer to the [demo video](https://drive.google.com/file/d/1aiipy1nlBRCUTv2ltG9uRYtgdqylTlJU/view?usp=drivesdk).
-<iframe src="https://drive.google.com/file/d/1aiipy1nlBRCUTv2ltG9uRYtgdqylTlJU/view?usp=drivesdk" width="640" height="480" allow="autoplay"></iframe>
 
 
 
