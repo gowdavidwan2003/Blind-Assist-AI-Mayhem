@@ -19,13 +19,20 @@ This project aims to provide a robust AI-driven assistance system for the blind,
 
 ## Demo Video
 
-For a detailed demonstration of the AI-Powered Assistance for the Blind, please refer to the [demo video](Demovideo.mp3).
+For a detailed demonstration of the AI-Powered Assistance for the Blind, please refer to the [demo video](https://drive.google.com/file/d/1aiipy1nlBRCUTv2ltG9uRYtgdqylTlJU/view?usp=drivesdk).
 
 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+All rights reserved.
+
+This software and associated files  are protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
+
+The Software is proprietary and confidential information . You are strictly prohibited from using, copying, modifying, merging, selling, distributing, sublicensing, and/or transferring copies of the Software except as authorized by.
+
+
+Any violation of this license may result in severe civil and criminal penalties and will be prosecuted to the maximum extent possible under the law.
 
 ---
 
